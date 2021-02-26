@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBD</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_second_name">Enter second name</string>
+    <string name="enter_phone_name">Enter phone name</string>
+</resources>
